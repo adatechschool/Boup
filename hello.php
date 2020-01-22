@@ -3,4 +3,3 @@
 <?php
 
 print "hello world\n";
-print "coucou";
